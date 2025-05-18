@@ -1,22 +1,20 @@
-# Library-Management-System
-
 Welcome to the **Library Management System**, a fully menu-driven Java application designed to mimic core functionalities of a real-world library. This project is built purely using **core Java**, without any external libraries or databases — ideal for learning object-oriented programming, Java collections, and command-line interfaces.
 
 ---
 
 ## 🧾 Table of Contents
 
-- [📌 Features]
-- [🛠 Technologies Used]
-- [📂 Project Structure]
-- [▶️ How to Run]
-- [🔍 Functionality Explained]
-- [🧠 Key Concepts Used]
-- [📸 Sample Output]
-- [🎯 Real-World Use Cases]
-- [🚀 Future Enhancements]
-- [👩‍💻 Author]
-- [📄 License]
+- [📌 Features](#-features)
+- [🛠 Technologies Used](#-technologies-used)
+- [📂 Project Structure](#-project-structure)
+- [▶️ How to Run](#-how-to-run)
+- [🔍 Functionality Explained](#-functionality-explained)
+- [🧠 Key Concepts Used](#-key-concepts-used)
+- [📸 Sample Output](#-sample-output)
+- [🎯 Real-World Use Cases](#-real-world-use-cases)
+- [🚀 Future Enhancements](#-future-enhancements)
+- [👩‍💻 Author](#-author)
+- [📄 License](#-license)
 
 ---
 
@@ -48,10 +46,12 @@ This Library Management System supports:
 
 ## 📂 Project Structure
 
-📁 Library-Management-System
+```bash
+📁 Library-Management-System-Java
 │
 ├── 📄 LibrarySystem.java     # Main Java source file
 └── 📄 README.md              # Project documentation (you’re reading it!)
+````
 
 ---
 
@@ -135,6 +135,7 @@ The `updateBook()` method:
 
 ## 📸 Sample Output
 
+```
 ===== Library Menu =====
 1. Add Book
 2. Display All Books
@@ -146,6 +147,7 @@ The `updateBook()` method:
 8. Check Book Quantity
 0. Exit
 Enter your choice:
+```
 
 ---
 
@@ -176,8 +178,8 @@ If you'd like to extend this project:
 
 **Sravani Mamidi**
 👩‍🎓 Master’s Student in Computer Science – Governors State University (USA)
-💡 Passionate about full stack development, Java, and problem solving
-📫 [LinkedIn](https://www.linkedin.com/in/sravani-mamidi) 
+💡 Passionate about backend development, Java, and problem solving
+📫 [LinkedIn](https://www.linkedin.com/in/sravani-mamidi)
 🌐 [GitHub](https://github.com/SRAVANI-HUB-07)
 
 ---
@@ -185,3 +187,7 @@ If you'd like to extend this project:
 ## 📄 License
 
 This project is open-source and free to use under the MIT License.
+
+```
+
+---
