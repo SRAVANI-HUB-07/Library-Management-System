@@ -188,6 +188,4 @@ If you'd like to extend this project:
 
 This project is open-source and free to use under the MIT License.
 
-```
-
 ---
